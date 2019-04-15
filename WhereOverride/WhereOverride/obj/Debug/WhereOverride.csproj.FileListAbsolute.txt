@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\bin\Debug\WhereOverride.exe.config
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\bin\Debug\WhereOverride.exe
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\bin\Debug\WhereOverride.pdb
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\obj\Debug\WhereOverride.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\obj\Debug\WhereOverride.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\obj\Debug\WhereOverride.exe
+C:\Users\fesolano\Desktop\My exercise\where override\WhereOverride\WhereOverride\obj\Debug\WhereOverride.pdb
